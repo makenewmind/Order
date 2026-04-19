@@ -1,0 +1,19 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+[Ll]ogs/
+[Oo]bj/
+[Bb]in/
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore other files
+*.db
+*.db-journal
